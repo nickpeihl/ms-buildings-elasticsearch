@@ -1,0 +1,4 @@
+.vscode/
+data/
+droppedDocuments.ndjson
+node_modules
